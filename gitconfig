@@ -62,3 +62,5 @@
 [user]
 	email = nawar82@gmail.com
 	name = Nawar Dalila
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/bin/git-credential-manager.exe
